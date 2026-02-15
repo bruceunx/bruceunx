@@ -1,18 +1,8 @@
-# 👋 Hi, I'm Bruce (Hu Xun)
+# 👋 Hi, I'm Bruce
 
 ## 🚀 AI-Native Builder | Systems Thinker | Full-Stack Engineer
 
 I design and build intelligent systems that bridge **AI, automation, and real-world infrastructure**.
-
----
-
-## 🧠 What I Do
-
-- 🤖 Build AI-powered desktop and web applications  
-- 🔌 Engineer industrial communication systems (PROFINET, real-time data exchange)  
-- 🧩 Design extensible plugin-based architectures  
-- 🛠 Create automation pipelines (scraping, data extraction, transformation)  
-- 🎬 Develop tools that transform media into structured knowledge  
 
 ---
 
@@ -39,25 +29,6 @@ I design and build intelligent systems that bridge **AI, automation, and real-wo
 - Rust (industrial communication)
 - C++ (algorithm design)
 - Linux-based deployments
-
----
-
-## 📌 Selected Projects
-
-- 🧪 AI-powered organic synthesis assistant  
-- 🎥 AI-driven video knowledge manager  
-- 🔧 PROFINET real-time data exchange implementation on Linux  
-- 📅 CalDAV server experimentation (Radicale)
-
----
-
-## 🎯 Engineering Strengths
-
-- Systems architecture & abstraction
-- Mathematical modeling
-- Async & concurrent systems
-- Plugin-based extensible designs
-- Bridging AI with real-world engineering
 
 ---
 
