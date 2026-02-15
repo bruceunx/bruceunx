@@ -1,12 +1,66 @@
-## 🚀 Passionate Innovator
-I am deeply passionate about leveraging my expertise in Python, mathematics, and programming to create innovative solutions for real-world challenges. My work blends analytical thinking with cutting-edge technology to deliver impactful results.
+# 👋 Hi, I'm Bruce (Hu Xun)
 
-## 📜 Programming Languages & Focus Areas
+## 🚀 AI-Native Builder | Systems Thinker | Full-Stack Engineer
 
-- 🐍 **Python**: Specializing in AI, automation, and web scraping.
-- 🌐 **TypeScript**: Proficient in full-stack development with Remix and Next.js.
-- 💻 **C++**: Experienced in building Qt desktop applications and designing AI algorithms.
-- ⚙️ **Rust**: Focused on industrial communication and high-performance systems.
-  
-## 📫 Contact Me
-Feel free to reach out via email: bruceunx@outlook.com
+I design and build intelligent systems that bridge **AI, automation, and real-world infrastructure**.
+
+---
+
+## 🧠 What I Do
+
+- 🤖 Build AI-powered desktop and web applications  
+- 🔌 Engineer industrial communication systems (PROFINET, real-time data exchange)  
+- 🧩 Design extensible plugin-based architectures  
+- 🛠 Create automation pipelines (scraping, data extraction, transformation)  
+- 🎬 Develop tools that transform media into structured knowledge  
+
+---
+
+## 🔬 Technical Stack
+
+### 🧠 AI & Automation
+- Python (AI, scraping, orchestration)
+- Local LLM workflows
+- Data transformation pipelines
+
+### 🖥 Desktop Systems
+- Electron + React + TypeScript
+- Tauri + Rust
+- Qt (C++)
+- PySide6
+
+### 🌐 Full Stack
+- Next.js / Remix
+- TypeScript
+- MySQL + SQLAlchemy
+- API-first design
+
+### ⚙️ Systems & Performance
+- Rust (industrial communication)
+- C++ (algorithm design)
+- Linux-based deployments
+
+---
+
+## 📌 Selected Projects
+
+- 🧪 AI-powered organic synthesis assistant  
+- 🎥 AI-driven video knowledge manager  
+- 🔧 PROFINET real-time data exchange implementation on Linux  
+- 📅 CalDAV server experimentation (Radicale)
+
+---
+
+## 🎯 Engineering Strengths
+
+- Systems architecture & abstraction
+- Mathematical modeling
+- Async & concurrent systems
+- Plugin-based extensible designs
+- Bridging AI with real-world engineering
+
+---
+
+## 📫 Contact
+
+📧 bruceunx@outlook.com
